@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_AdeliaAnjelina</string>
+    <string-array name="arr_jalurpendaftaran">
+        <item>Jalur Tanpa Tes</item>
+        <item>Tes Tertulis</item>
+        <item>Wawancara</item>
+        <item>Rekomendasi</item>
+    </string-array>
+</resources>
